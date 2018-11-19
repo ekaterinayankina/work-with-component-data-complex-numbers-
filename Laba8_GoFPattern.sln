@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Laba8_GoFPattern", "Laba8_GoFPattern\Laba8_GoFPattern.vcxproj", "{8EDB2147-95ED-4ECF-8F26-CE38DD992377}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EDB2147-95ED-4ECF-8F26-CE38DD992377}.Debug|x64.ActiveCfg = Debug|x64
+		{8EDB2147-95ED-4ECF-8F26-CE38DD992377}.Debug|x64.Build.0 = Debug|x64
+		{8EDB2147-95ED-4ECF-8F26-CE38DD992377}.Debug|x86.ActiveCfg = Debug|Win32
+		{8EDB2147-95ED-4ECF-8F26-CE38DD992377}.Debug|x86.Build.0 = Debug|Win32
+		{8EDB2147-95ED-4ECF-8F26-CE38DD992377}.Release|x64.ActiveCfg = Release|x64
+		{8EDB2147-95ED-4ECF-8F26-CE38DD992377}.Release|x64.Build.0 = Release|x64
+		{8EDB2147-95ED-4ECF-8F26-CE38DD992377}.Release|x86.ActiveCfg = Release|Win32
+		{8EDB2147-95ED-4ECF-8F26-CE38DD992377}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {819113A4-B6C1-47EA-980E-AA6D1432CA34}
+	EndGlobalSection
+EndGlobal
